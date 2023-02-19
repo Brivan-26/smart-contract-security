@@ -6,3 +6,4 @@ This repository contains some notes on popular **Smart Contract attacks and secu
 - [Arithmetic Overflow & Underflow](./Arithmetic-Overflow-Underflow)
 - [Forcefully send ether to a contract](./Forcefully-send-ether)
 - [Insecure Randomness](./Insecure-Randomness)
+- [Front Running](./Front-running)
