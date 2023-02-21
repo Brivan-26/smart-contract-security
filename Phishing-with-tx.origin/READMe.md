@@ -1,4 +1,4 @@
-# Smart Contract Security - Hiding Malicious Code
+# Smart Contract Security - Phishing with `tx.origin`
 One of the ambiguities out there is the difference between `msg.sender` and `tx.origin` globlal variables, and some think that their use cases are changeable, **while this is NOT true**, the following attack will demonstrate that.
 
 ### The Attack
