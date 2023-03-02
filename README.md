@@ -9,3 +9,4 @@ This repository contains some notes on popular **Smart Contract attacks and secu
 - [Front Running](./Front-running)
 - [Hiding Malicious code](./Hiding-malicious-code)
 - [Phishing with tx.origin](./Phishing-with-tx.origin)
+- [Accessing Private Data](./Accessing-Private-Data)
